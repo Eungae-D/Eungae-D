@@ -38,5 +38,33 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-flat-square&logo=github&logoColor=white"> 
   </p>
   </details>
+  </br>
+
+<h3 align="center">🏅 Ranking 🏅</h3>
+<div align="center">
+
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=s4078942)](https://www.acmicpc.net/user/s4078942)
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=s4078942&theme=warm)
+</div>
+
+
+
+
+
+<h3 align="center">🎱 My Status 🎱</h3>
+<div align="center">
+
+<!-- ![Eungae-D's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eungae-D&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=graywhite) -->
+<!--   [![trophy](https://github-profile-trophy.vercel.app/?username=sujeong-jang-creator&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
+<!--   ![Eungae-D's github stats](https://github-readme-stats.vercel.app/api?username=Eungae-D&show_icons=true&hide_title=true&theme=graywhite) -->
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Eungae-D&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+
+
+<!-- #### 🛠️ Github Stats
+<p>
+  <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api?username=veggie-garden&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api/top-langs/?username=veggie-garden&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</p> -->
 
 
