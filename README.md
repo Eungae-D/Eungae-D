@@ -57,6 +57,7 @@
 <!-- ![Eungae-D's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eungae-D&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=graywhite) -->
 <!--   [![trophy](https://github-profile-trophy.vercel.app/?username=sujeong-jang-creator&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
 <!--   ![Eungae-D's github stats](https://github-readme-stats.vercel.app/api?username=Eungae-D&show_icons=true&hide_title=true&theme=graywhite) -->
+<!--   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eungae-D&layout=compact&theme=graywhite) -->
   [![trophy](https://github-profile-trophy.vercel.app/?username=Eungae-D&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
