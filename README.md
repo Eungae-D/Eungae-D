@@ -15,6 +15,18 @@
 <a href="https://eungae-d.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-flat-square&logo=tistory&logoColor=white"></a>
 <br/>
 <br/>
+  
+ <!--자격증 리스트-->
+ <details>
+<summary>📋 Certification 📋</summary>
+<p align="center" display="inline-block">
+</br>
+  <img src="https://img.shields.io/badge/물류관리사-0061D5?style=for-flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/정보처리기사-F44336?style=for-flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sqld-F0D722?style=for-flat-square&logoColor=white">
+  </p>
+  </details>
+  </br>
 
 <!-- 기술 스택  -->
 <details>
