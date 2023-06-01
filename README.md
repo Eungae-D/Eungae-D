@@ -48,6 +48,10 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-flat-square&logo=Mysql&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-flat-square&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-flat-square&logo=github&logoColor=white"> 
+  </br>
+  <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-flat-square&logo=eclipseide&logoColor=white">
+  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-flat-square&logo=visualstudiocode&logoColor=white"> 
+  
   </p>
   </details>
   </br>
