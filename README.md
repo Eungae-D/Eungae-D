@@ -24,6 +24,8 @@
   <img src="https://img.shields.io/badge/물류관리사-0061D5?style=for-flat-square&logoColor=white">
   <img src="https://img.shields.io/badge/정보처리기사-F44336?style=for-flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/sqld-F0D722?style=for-flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/ERP생산2급-263238?style=for-flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/ERP물류2급-263238?style=for-flat-square&logoColor=white">
   </p>
   </details>
   </br>
