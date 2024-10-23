@@ -62,7 +62,6 @@
 <div align="center">
 
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=s4078942)](https://www.acmicpc.net/user/s4078942)
-  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=s4078942&theme=warm)
 </div>
 
 
