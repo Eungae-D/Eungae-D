@@ -1,7 +1,7 @@
 <!-- 인삿말 -->
 <h1 align="center"><img src="https://github.com/Eungae-D/Eungae-D/assets/135101171/29ce20e3-f5b7-4a46-9601-736c3ae5a67f" width="30"/> Hey! Nice to see you.<img src="https://github.com/Eungae-D/Eungae-D/assets/135101171/29ce20e3-f5b7-4a46-9601-736c3ae5a67f" width="30"/></h1>
 
-<p align="center">Welcome to my page! </br> I'm Gyuho, Studying in <b><img src="https://github.com/Eungae-D/Eungae-D/assets/135101171/998e503c-32e2-4720-893c-f8a963179304" width="15"/>SSAFY,</b> currently living in <img src="https://github.com/Eungae-D/Eungae-D/assets/135101171/81381dbc-5067-4398-9f68-409b97c7a382" width="15"/> <b>Seoul, Korea</b>. </p>
+<p align="center">Welcome to my page! currently living in <img src="https://github.com/Eungae-D/Eungae-D/assets/135101171/81381dbc-5067-4398-9f68-409b97c7a382" width="15"/> <b>Seoul, Korea</b>. </p>
 <br/>
 
 <!--포트폴리오 리스트-->
